@@ -20,10 +20,10 @@ This project aims to analyze HR data and uncover insights that can help organiza
 ## 📸 Screenshots
 
 ### Attrition Distribution
-![Attrition Chart](images/attrition_chart.png)
+![Attrition Chart](attrition_chart.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### Overtime vs Attrition
-![Overtime](images/overtime_attrition.png)
+![Overtime](overtime_attrition.png)
